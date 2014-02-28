@@ -1,7 +1,7 @@
 tomlify
 =======
 
-TOML all up in your [Browserify](http://browserify.org/).
+[TOML](https://github.com/BinaryMuse/toml-node) all up in your [Browserify](http://browserify.org/).
 
 Installation
 ------------
