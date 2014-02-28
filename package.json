@@ -1,0 +1,27 @@
+{
+  "name": "tomlify",
+  "version": "0.0.0",
+  "description": "TOML all up in your Browserify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/BinaryMuse/tomlify.git"
+  },
+  "keywords": [
+    "toml",
+    "browserify"
+  ],
+  "author": "Brandon Tilley <brandon@brandontilley.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BinaryMuse/tomlify/issues"
+  },
+  "homepage": "https://github.com/BinaryMuse/tomlify",
+  "dependencies": {
+    "toml": "~2.0.3",
+    "through": "~2.3.4"
+  }
+}
